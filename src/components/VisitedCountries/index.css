@@ -1,0 +1,41 @@
+.visited-list-item {
+  list-style-type: none;
+}
+
+.visited-item-container {
+  margin: 10px;
+  background-color: #334155;
+  background-size: cover;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.image-url {
+  height: 200px;
+  width: 300px;
+}
+
+.visited-name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #cbd5e1;
+}
+
+.name-button-container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.remove-button {
+  height: 30px;
+  width: 70px;
+  font-family: 'Roboto';
+  padding: 5px;
+  background-color: transparent;
+  border: 1px solid #cbd5e1;
+  color: #cbd5e1;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}

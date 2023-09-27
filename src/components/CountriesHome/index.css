@@ -1,0 +1,38 @@
+.countries-home-container {
+  background-color: #161624;
+  background-size: cover;
+  padding: 20px;
+}
+
+.countries-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #f8fafc;
+}
+
+.countries-items-container {
+  border: 1px solid #94a3b8;
+  padding-left: 0px;
+  border-radius: 5px;
+}
+
+.visit-countries-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #f8fafc;
+}
+
+.visited-countries-items {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.no-countries {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  color: #cbd5e1;
+}
